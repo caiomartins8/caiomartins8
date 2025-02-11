@@ -1,5 +1,6 @@
 
-<h1 align="center">👩🏻💻 Hello World! ✨💯</h1>
+<h1 align="center">💻 Hello World! 💯</h1>
+
 
 - 👋 Oi , eu sou o @caiomartins8
   
@@ -17,7 +18,11 @@
 - ⚡ CONHECIMENTOS :
 C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 
-<h3 align="left">Programing Languages (in order of level domain)</h3>
+
+
+
+
+<h3 align="left">Linguagens de Programação</h3>
 
 ###
 
