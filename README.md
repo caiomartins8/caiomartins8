@@ -1,5 +1,5 @@
 
-<h1 align="center">💻 Hello World! 💯</h1>
+<h1 align="center"> Hello World! 💯</h1>
 
 
 - 👋 Oi , eu sou o @caiomartins8
@@ -19,14 +19,24 @@
 C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 
 
+<h1 align="center">💻 Learning </h1>
 
+<div align="center">
 
+ <img src="https://github.com/user-attachments/assets/5192ed43-cf29-40e8-8c27-27b73676061b" height="60" alt="python logo"  />
+  <img width="20" />
+  <img src="https://github.com/user-attachments/assets/b5ef23d7-d1a3-4d24-85c8-1dd340237b50" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/6e723811-0b7d-4e87-8c0c-685de0ca50a6" height="60" alt="css3 logo"  />
+  <img width="12" />
 
-<h3 align="left">Linguagens de Programação</h3>
+  </div>
+
+<h3 align="center">Linguagens de Programação</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
