@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080"/>
 
 <h1 align="center"> 💻 Hello World! 💯</h1>
 
