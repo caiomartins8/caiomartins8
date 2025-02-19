@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello World! 💯</h1>
+<h1 align="center"> 💻 Hello World! 💯</h1>
 
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=800080&width=400&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Guilherme';" alt="Typing SVG" />
 </a>
@@ -21,20 +21,24 @@
 C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 
 
-<h1 align="center">💻 Learning </h1>
+<h1 align="center">🔎 Learning </h1>
 
-<div align="center">
+<div align="center" >
+  
+<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
+ <img width="12" />
+<img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="60" />
+ <img width="12" />
+<img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
+ <img width="12" />
+<img  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" /> 
+ <img width="12" />
+<img  src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="60" /> 
 
- <img src="https://github.com/user-attachments/assets/5192ed43-cf29-40e8-8c27-27b73676061b" height="60" alt="python logo"  />
-  <img width="20" />
-  <img src="https://github.com/user-attachments/assets/b5ef23d7-d1a3-4d24-85c8-1dd340237b50" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/6e723811-0b7d-4e87-8c0c-685de0ca50a6" height="60" alt="css3 logo"  />
-  <img width="12" />
 
   </div>
 
-<h3 align="center">Linguagens de Programação</h3>
+<h3 align="center" >Linguagens de Programação </h3>
 
 ###
 
@@ -50,6 +54,8 @@ C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+
 </div>
 
 
