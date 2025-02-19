@@ -6,18 +6,18 @@
 
 - 👋 Oi , eu sou o @caiomartins8
   
-- 👀 OBJETIVO :
+- ✨ OBJETIVO :
  Ter a oportunidade de desenvolver - me profissionalmente, colocando em prática aspectos abordados em sala de aula. Fazer um bom trabalho em equipe,
  colaborando assim com meu crescimento profissional e com a instituição.
   
-- 🌱 EXPERIÊNCIAS :
+- ✨ EXPERIÊNCIAS :
    Trabalho com marketing digital, sei usar ferramentas como Word, Excel e outros sites,além de estudos de programação e desenvolvimento de software
    abordados nas aulas Experiência também como suporte em empresas : Editorial Multimarcas, Vidraçaria Silva, Shippify e Corgie.
   
-- 😄 HABILIDADES :
+- ✨ HABILIDADES :
  Boa Comunicação , Trabalho em equipe , Foco e Nível mediano de inglês
 
-- ⚡ CONHECIMENTOS :
+- ✨ CONHECIMENTOS :
 C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 
 
@@ -39,17 +39,17 @@ C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
 
