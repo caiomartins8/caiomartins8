@@ -1,22 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080"/>
 
-<h1 align="center"> 💻 Hello World! 💯</h1>
+<h1 align="center"> 💻 Hello World! </h1>
 
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=800080&width=400&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Guilherme';" alt="Typing SVG" />
 </a>
 
-- 👋 Oi , eu sou o @caiomartins8
-  
--  OBJETIVO :
- Ter a oportunidade de desenvolver - me profissionalmente, colocando em prática aspectos abordados em sala de aula. Fazer um bom trabalho em equipe,
- colaborando assim com meu crescimento profissional e com a instituição.
-  
--  EXPERIÊNCIAS :
-   Trabalho com marketing digital, sei usar ferramentas como Word, Excel e outros sites,além de estudos de programação e desenvolvimento de software
-   abordados nas aulas Experiência também como suporte em empresas : Editorial Multimarcas, Vidraçaria Silva, Shippify e Corgie.
-  
--  HABILIDADES :
- Boa Comunicação , Trabalho em equipe , Foco e Nível mediano de inglês
+👋 Olá! Eu sou o @caiomartins8
+
+🎯 Objetivo
+Crescer na área de tecnologia, com foco em aprendizado, trabalho em equipe e desenvolvimento profissional.
+
+💼 Experiência
+Atuação com marketing digital e suporte técnico em empresas como Editorial Multimarcas, Vidraçaria Silva, Shippify e Corgie.
+
+🧠 Habilidades
+🗣️ Comunicação • 🤝 Trabalho em equipe • 🌍 Inglês intermediário
+
+🎟️ Eventos
+📍 Presente no MINAS Summit — Edições 2024 e 2025
+
 
 
 
