@@ -81,6 +81,8 @@ Atuação com marketing digital e suporte técnico em empresas como Editorial Mu
 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&section=footer"/>
+
 <!---
 caiomartins8/caiomartins8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
