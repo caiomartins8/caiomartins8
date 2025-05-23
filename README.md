@@ -7,19 +7,39 @@
 
 - 👋 Oi , eu sou o @caiomartins8
   
-- ✨ OBJETIVO :
+-  OBJETIVO :
  Ter a oportunidade de desenvolver - me profissionalmente, colocando em prática aspectos abordados em sala de aula. Fazer um bom trabalho em equipe,
  colaborando assim com meu crescimento profissional e com a instituição.
   
-- ✨ EXPERIÊNCIAS :
+-  EXPERIÊNCIAS :
    Trabalho com marketing digital, sei usar ferramentas como Word, Excel e outros sites,além de estudos de programação e desenvolvimento de software
    abordados nas aulas Experiência também como suporte em empresas : Editorial Multimarcas, Vidraçaria Silva, Shippify e Corgie.
   
-- ✨ HABILIDADES :
+-  HABILIDADES :
  Boa Comunicação , Trabalho em equipe , Foco e Nível mediano de inglês
 
-- ✨ CONHECIMENTOS :
-C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
+
+
+</br>
+</br>
+</br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph.svg">
+</picture>
+
+</br>
+</br>
+</br>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomartins8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomartins8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 
 <h1 align="center">🔎 Learning </h1>
@@ -41,7 +61,7 @@ C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
 
 <h3 align="center" >Linguagens de Programação </h3>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -58,22 +78,6 @@ C#, ASP.Net, PHP, HTML, CSS, Java Script, MySQL, Python
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caiomartins8/caiomartins8/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomartins8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomartins8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 
 <!---
 caiomartins8/caiomartins8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
