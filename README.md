@@ -38,26 +38,7 @@ Atual Desenvolvedor Web da PD Case .
 </br>
 
 
-<div align="center">
- 
 
-
-<h1 align="center">🔎 Learning </h1>
-
-<div align="center" >
-  
-<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
- <img width="12" />
-<img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="60" />
- <img width="12" />
-<img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
- <img width="12" />
-<img  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" /> 
- <img width="12" />
-<img  src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="60" /> 
-
-
-  </div>
 
 <h3 align="center" >Linguagens de Programação </h3>
 
@@ -75,9 +56,20 @@ Atual Desenvolvedor Web da PD Case .
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+</td><td valign="top" width="33%">
+
 
 </div>
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&section=footer"/>
 
