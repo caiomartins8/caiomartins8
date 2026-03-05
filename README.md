@@ -12,6 +12,7 @@ Crescer na área de tecnologia, com foco em aprendizado, trabalho em equipe e de
 
 💼 Experiência
 Atuação com marketing digital e suporte técnico em empresas como Editorial Multimarcas, Vidraçaria Silva, Shippify e Corgie.
+Atual Desenvolvedor Web da PD Case .
 
 🧠 Habilidades
 🗣️ Comunicação • 🤝 Trabalho em equipe • 🌍 Inglês intermediário
